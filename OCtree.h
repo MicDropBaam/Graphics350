@@ -1,15 +1,3 @@
-/* Start Header -------------------------------------------------------
-Copyright (C) 2019 DigiPen Institute of Technology.
-Reproduction or disclosure of this file or its contents without the prior written
-consent of DigiPen Institute of Technology is prohibited.
-File Name: <OCtree.h>
-Purpose: <Each internal node has exactly eight children by recursively subdividing.>
-Language: <c++>
-Platform: <Visual studio, window>
-Project: <minji.kim, class CS350, Assignment 3, minji.kim_CS350_3>
-Author: <Seraphina Kim, minji.kim, minji.kim>
-Creation date: <March. 15th. 2019>
-End Header --------------------------------------------------------*/
 #pragma once
 
 #include "glm/glm.hpp"
