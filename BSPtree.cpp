@@ -1,15 +1,3 @@
-/* Start Header -------------------------------------------------------
-Copyright (C) 2019 DigiPen Institute of Technology.
-Reproduction or disclosure of this file or its contents without the prior written
-consent of DigiPen Institute of Technology is prohibited.
-File Name: <BSPtree.cpp>
-Purpose: <Recursively subdividing a binary space partitioning>
-Language: <c++>
-Platform: <Visual studio, window>
-Project: <minji.kim, class CS350, Assignment 3, minji.kim_CS350_3>
-Author: <Seraphina Kim, minji.kim, minji.kim>
-Creation date: <March. 15th. 2019>
-End Header --------------------------------------------------------*/
 #include "BSPtree.h"
 
 #define MAX_DEPTH 8
