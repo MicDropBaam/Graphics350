@@ -1,16 +1,3 @@
-/* Start Header -------------------------------------------------------
-Copyright (C) 2019 DigiPen Institute of Technology.
-Reproduction or disclosure of this file or its contents without the prior written
-consent of DigiPen Institute of Technology is prohibited.
-File Name: <Render.cpp>
-Purpose: <To uses as a rendering>
-Language: <c++>
-Platform: <Visual studio, window>
-Project: <minji.kim, class CS350, Assignment 3, minji.kim_CS350_3>
-Author: <Seraphina Kim, minji.kim, minji.kim>
-Creation date: <March. 15th. 2019>
-End Header --------------------------------------------------------*/
-
 #define PIEDOUBLE 6.283185308
 
 #include "glad/glad.h"
