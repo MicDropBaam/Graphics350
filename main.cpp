@@ -1,16 +1,3 @@
-/* Start Header -------------------------------------------------------
-Copyright (C) 2019 DigiPen Institute of Technology.
-Reproduction or disclosure of this file or its contents without the prior written
-consent of DigiPen Institute of Technology is prohibited.
-File Name: <main.cpp>
-Purpose: <Get all the information from other files and complete the task in here>
-Language: <c++>
-Platform: <Visual studio, window>
-Project: <minji.kim, class CS350, Assignment 4, minji.kim_CS350_4>
-Author: <Seraphina Kim, minji.kim, minji.kim>
-Creation date: <April. 25th. 2019>
-End Header --------------------------------------------------------*/
-
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 
